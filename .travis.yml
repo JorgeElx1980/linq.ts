@@ -4,3 +4,4 @@ node_js:
   - "5.1"
 before_install:dededeed
   - 'npm install -g npm@latest'
+  blalalblalab
