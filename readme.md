@@ -40,3 +40,4 @@ Powered by [AVA](https://github.com/sindresorhus/ava)
 ## License
 
 MIT © [Flavio Corpa](http://flaviocorpa.com)
+a
